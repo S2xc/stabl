@@ -1,1 +1,3 @@
-print('d')
+print('ds')
+print(45)
+
